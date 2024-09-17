@@ -14,7 +14,7 @@
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1590565795/radar/icons/compte-nickel-fr.jpg",
-  "websiteUrl": "https://compte-nickel.fr/",
+  "websiteUrl": "https://nickel.eu/",
   "ownership": [
     {
       "providerId": "bnp-paribas",
@@ -26,7 +26,11 @@
   "stateOwned": false,
   "countryHQ": "FR",
   "countries": [
-    "FR"
+    "FR",
+    "PT",
+    "SP",
+    "GE",
+    "BE"
   ],
   "compliance": [
     {
@@ -34,7 +38,7 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://nickel.eu/en-fr/api-dsp2",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
